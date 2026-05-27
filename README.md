@@ -11,4 +11,4 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Velvet Mango*
 
-<img width="785" height="397" alt="VelvetMangoColors2" src="https://github.com/user-attachments/assets/b4636220-6cd0-47ec-999d-e810d90fff78" />
+<img width="785" height="398" alt="VelvetMangoColors2" src="https://github.com/user-attachments/assets/c136b9e8-939d-47f3-a452-4d8ce2597764" />
