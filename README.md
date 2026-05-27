@@ -1,4 +1,4 @@
-# Velvet Mango
+# Velvet Mango Ghostty
 The Velvet Mango color scheme for Ghostty.
 
 <img width="103" height="103" alt="Mango" src="https://github.com/user-attachments/assets/92e7c4c2-28c2-4d97-a8e5-3bbe745a30d6" /><br/>
