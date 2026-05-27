@@ -9,7 +9,7 @@ The Velvet Mango color scheme for Ghostty.
 
 * [Velvet Mango for Firefox](https://addons.mozilla.org/sv-SE/firefox/addon/velvet-mango-theme/)<br/>
 
-Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
+Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Velvet Mango*
 
