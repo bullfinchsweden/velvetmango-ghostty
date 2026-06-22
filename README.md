@@ -1,7 +1,7 @@
 # Velvet Mango Ghostty
 The Velvet Mango color scheme for Ghostty.
 
-<img width="103" height="103" alt="Mango" src="https://github.com/user-attachments/assets/25bfba99-6ad4-4851-90a7-a1a33f029157" /><br/>
+<img src="Images/Mango.png"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
@@ -11,6 +11,6 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Velvet Mango*
 
-<img width="260" height="82" alt="VelvetMangoColors1" src="https://github.com/user-attachments/assets/ba3f916b-323c-4fd1-8b1c-e8a66e3260b6" /><br/>
+<img src="Images/VelvetMangoColors1.png" width="260" height="82" /><br/>
 
-<img width="785" height="398" alt="VelvetMangoColors2" src="https://github.com/user-attachments/assets/e28e4c5d-60aa-4ec7-ae9e-b48019584d32" />
+<img src="Images/VelvetMangoColors2.png" width="785" height="398" />
