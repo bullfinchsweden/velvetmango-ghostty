@@ -7,6 +7,8 @@ The Velvet Mango color scheme for Ghostty.
 
 * [Velvet Mango for VS Code](https://github.com/miles-crighton/velvet-mango-vscode)<br/>
 
+<img src="Images/VelvetMango.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Velvet Mango*
