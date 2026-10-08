@@ -1,7 +1,7 @@
 # Velvet Mango Ghostty
 The Velvet Mango color scheme for Ghostty.
 
-<img src="Images/Mango.png"><br/>
+<img src="Images/Ghostty.jpg"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
